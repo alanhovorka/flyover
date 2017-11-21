@@ -15,6 +15,21 @@ What's that plane flying overhead?
 
 I live underneath a flight path for airplanes arriving at LaGuardia Airport in New York. When I hear the planes, I get curious: where are those people coming from? I wrote this to find out. You can read more about my feelings [here](http://jeremybmerrill.com/blog/2016/01/flyover.html).
 
+**Update 11/21/17**
+Going to update and modify this repo for my own project, which aims to do:
+Set up dump1090
+See how many planes I pick up and if I need to get a more powerful antenna
+Sync up to FlightAware
+Sync up to ADSB Exchange
+Hook up to Alexa
+Send slack notifications
+I plan on documenting each of these steps. 
+Jeremy created an excellent project that I want to build out. 
+
+
+[10:33] 
+like a bot that checks for certain planes and sends a notification
+
 How does this work?
 -------------------
 
